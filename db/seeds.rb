@@ -7,6 +7,12 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 # db/seeds.rb
-Ingredient.create(name: "lemon")
-Ingredient.create(name: "ice")
-Ingredient.create(name: "mint leaves")
+# Ingredient.create(name: "lemon")
+# Ingredient.create(name: "ice")
+# Ingredient.create(name: "mint leaves")
+
+Cocktail.create(name: "Wine")
+Cocktail.create(name: "Old Fashioned")
+Cocktail.create(name: "Gin and Tonic")
+Cocktail.create(name: "Sangria")
+Cocktail.create(name: "BEERZ")
